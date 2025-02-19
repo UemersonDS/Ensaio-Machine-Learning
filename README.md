@@ -1,6 +1,6 @@
 # Ensaio de Machine Learning
-![capa_ensaio](
-img/capa_ensaio.png)
+![curry_company](
+img/curry_company.png)
 ## Descrição
 A empresa Data Money acredita que a expertise no treinamento e ajuste
 fino dos algoritmos, feito pelos Cientistas de Dados da empresa, é a
